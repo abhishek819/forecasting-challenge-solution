@@ -1,0 +1,8 @@
+,primary,primary,sensitivity,sensitivity
+,mae,rmse,mae,rmse
+ar1_mean_reverting,0.206,0.2425,0.1904,0.238
+ridge_a0.01,0.3006,0.3518,0.2416,0.3166
+ridge_a0.1,0.2476,0.2942,0.2135,0.2705
+ridge_a1,0.2628,0.2985,0.2289,0.2778
+persistence,0.2056,0.254,0.2384,0.2881
+training_mean,0.2141,0.2497,0.1949,0.2415

@@ -1,0 +1,15 @@
+target,baseline,mae,rmse,vs_persistence
+aggregate_cpu_utilization,persistence,0.2056,0.254,0.0%
+aggregate_cpu_utilization,moving_avg_3,0.2353,0.2777,-14.5%
+aggregate_cpu_utilization,moving_avg_6,0.2659,0.3077,-29.3%
+aggregate_cpu_utilization,moving_avg_12,0.2545,0.2972,-23.8%
+aggregate_cpu_utilization,training_mean,0.2141,0.2497,-4.1%
+aggregate_cpu_utilization,seasonal_naive_12,0.2634,0.3142,-28.1%
+aggregate_cpu_utilization,seasonal_naive_24,0.3124,0.3517,-51.9%
+active_vm_count,persistence,0.0,0.0,tie (both exact)
+active_vm_count,moving_avg_3,0.0,0.0,tie (both exact)
+active_vm_count,moving_avg_6,0.0,0.0,tie (both exact)
+active_vm_count,moving_avg_12,0.0,0.0,tie (both exact)
+active_vm_count,training_mean,0.0,0.0,tie (both exact)
+active_vm_count,seasonal_naive_12,0.0,0.0,tie (both exact)
+active_vm_count,seasonal_naive_24,0.0,0.0,tie (both exact)
